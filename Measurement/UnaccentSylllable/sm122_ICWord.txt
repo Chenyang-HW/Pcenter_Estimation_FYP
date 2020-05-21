@@ -1,0 +1,1015 @@
+ {
+   "from": 7,
+   "to": 7.42,
+   "speaker": 1,
+   "confidence": 0.53,
+   "final": false
+  },
+  {
+   "from": 8.1,
+   "to": 8.19,
+   "speaker": 1,
+   "confidence": 0.53,
+   "final": false
+  },
+  {
+   "from": 8.19,
+   "to": 8.28,
+   "speaker": 1,
+   "confidence": 0.53,
+   "final": false
+  },
+  {
+   "from": 8.54,
+   "to": 8.69,
+   "speaker": 1,
+   "confidence": 0.53,
+   "final": false
+  },
+  {
+   "from": 10.62,
+   "to": 10.72,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 10.72,
+   "to": 10.8,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 11.07,
+   "to": 11.22,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 13.2,
+   "to": 13.29,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 13.29,
+   "to": 13.37,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 13.63,
+   "to": 13.77,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 15.87,
+   "to": 15.96,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 15.96,
+   "to": 16.05,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 16.35,
+   "to": 16.5,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 18.58,
+   "to": 18.67,
+   "speaker": 1,
+   "confidence": 0.46,
+   "final": false
+  },
+  {
+   "from": 18.67,
+   "to": 18.75,
+   "speaker": 1,
+   "confidence": 0.46,
+   "final": false
+  },
+  {
+   "from": 19.01,
+   "to": 19.16,
+   "speaker": 1,
+   "confidence": 0.46,
+   "final": false
+  },
+  {
+   "from": 21.22,
+   "to": 21.31,
+   "speaker": 1,
+   "confidence": 0.42,
+   "final": false
+  },
+  {
+   "from": 21.31,
+   "to": 21.39,
+   "speaker": 1,
+   "confidence": 0.42,
+   "final": false
+  },
+  {
+   "from": 21.65,
+   "to": 21.79,
+   "speaker": 1,
+   "confidence": 0.42,
+   "final": false
+  },
+  {
+   "from": 23.63,
+   "to": 23.73,
+   "speaker": 1,
+   "confidence": 0.51,
+   "final": false
+  },
+  {
+   "from": 23.73,
+   "to": 23.82,
+   "speaker": 1,
+   "confidence": 0.51,
+   "final": false
+  },
+  {
+   "from": 24.02,
+   "to": 24.14,
+   "speaker": 1,
+   "confidence": 0.51,
+   "final": false
+  },
+  {
+   "from": 25.9,
+   "to": 25.99,
+   "speaker": 1,
+   "confidence": 0.57,
+   "final": false
+  },
+  {
+   "from": 25.99,
+   "to": 26.08,
+   "speaker": 1,
+   "confidence": 0.57,
+   "final": false
+  },
+  {
+   "from": 26.3,
+   "to": 26.46,
+   "speaker": 1,
+   "confidence": 0.57,
+   "final": false
+  },
+  {
+   "from": 28.25,
+   "to": 28.33,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
+  {
+   "from": 28.33,
+   "to": 28.4,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
+  {
+   "from": 28.63,
+   "to": 28.78,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
+  {
+   "from": 30.52,
+   "to": 30.62,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
+  {
+   "from": 30.62,
+   "to": 30.71,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
+  {
+   "from": 30.91,
+   "to": 31.05,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
+  {
+   "from": 32.87,
+   "to": 32.95,
+   "speaker": 1,
+   "confidence": 0.49,
+   "final": false
+  },
+  {
+   "from": 32.95,
+   "to": 33.03,
+   "speaker": 1,
+   "confidence": 0.49,
+   "final": false
+  },
+  {
+   "from": 33.26,
+   "to": 33.39,
+   "speaker": 1,
+   "confidence": 0.49,
+   "final": false
+  },
+  {
+   "from": 35.21,
+   "to": 35.3,
+   "speaker": 1,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 35.3,
+   "to": 35.38,
+   "speaker": 1,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 35.58,
+   "to": 35.7,
+   "speaker": 1,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 37.37,
+   "to": 37.47,
+   "speaker": 1,
+   "confidence": 0.49,
+   "final": false
+  },
+  {
+   "from": 37.47,
+   "to": 37.55,
+   "speaker": 1,
+   "confidence": 0.49,
+   "final": false
+  },
+  {
+   "from": 37.7,
+   "to": 37.83,
+   "speaker": 1,
+   "confidence": 0.49,
+   "final": false
+  },
+  {
+   "from": 39.34,
+   "to": 39.42,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 39.42,
+   "to": 39.5,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 39.66,
+   "to": 39.77,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 41.15,
+   "to": 41.24,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 41.24,
+   "to": 41.32,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 41.58,
+   "to": 41.71,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 43.06,
+   "to": 43.19,
+   "speaker": 1,
+   "confidence": 0.55,
+   "final": false
+  },
+  {
+   "from": 43.19,
+   "to": 43.28,
+   "speaker": 1,
+   "confidence": 0.55,
+   "final": false
+  },
+  {
+   "from": 43.47,
+   "to": 43.59,
+   "speaker": 1,
+   "confidence": 0.55,
+   "final": false
+  },
+  {
+   "from": 45.09,
+   "to": 45.17,
+   "speaker": 1,
+   "confidence": 0.58,
+   "final": false
+  },
+  {
+   "from": 45.17,
+   "to": 45.24,
+   "speaker": 1,
+   "confidence": 0.58,
+   "final": false
+  },
+  {
+   "from": 45.41,
+   "to": 45.54,
+   "speaker": 1,
+   "confidence": 0.58,
+   "final": false
+  },
+  {
+   "from": 47.05,
+   "to": 47.14,
+   "speaker": 1,
+   "confidence": 0.44,
+   "final": false
+  },
+  {
+   "from": 47.14,
+   "to": 47.22,
+   "speaker": 1,
+   "confidence": 0.44,
+   "final": false
+  },
+  {
+   "from": 47.38,
+   "to": 47.5,
+   "speaker": 1,
+   "confidence": 0.44,
+   "final": false
+  },
+  {
+   "from": 48.91,
+   "to": 49.01,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 49.01,
+   "to": 49.11,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 49.4,
+   "to": 49.53,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 51.4,
+   "to": 51.5,
+   "speaker": 1,
+   "confidence": 0.38,
+   "final": false
+  },
+  {
+   "from": 51.5,
+   "to": 51.59,
+   "speaker": 1,
+   "confidence": 0.38,
+   "final": false
+  },
+{
+   "from": 51.86,
+   "to": 52,
+   "speaker": 1,
+   "confidence": 0.38,
+   "final": false
+  },
+  {
+   "from": 54,
+   "to": 54.09,
+   "speaker": 0,
+   "confidence": 0.41,
+   "final": false
+  },
+  {
+   "from": 54.09,
+   "to": 54.18,
+   "speaker": 0,
+   "confidence": 0.41,
+   "final": false
+  },
+  {
+   "from": 54.42,
+   "to": 54.6,
+   "speaker": 0,
+   "confidence": 0.41,
+   "final": false
+  },
+  {
+   "from": 56.76,
+   "to": 56.84,
+   "speaker": 0,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 56.84,
+   "to": 56.93,
+   "speaker": 0,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 57.22,
+   "to": 57.4,
+   "speaker": 0,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 59.39,
+   "to": 59.6,
+   "speaker": 0,
+   "confidence": 0.46,
+   "final": false
+  },
+  {
+   "from": 59.6,
+   "to": 59.69,
+   "speaker": 0,
+   "confidence": 0.46,
+   "final": false
+  },
+  {
+   "from": 59.97,
+   "to": 60.12,
+   "speaker": 0,
+   "confidence": 0.46,
+   "final": false
+  },
+  {
+   "from": 62.22,
+   "to": 62.31,
+   "speaker": 1,
+   "confidence": 0.31,
+   "final": false
+  },
+  {
+   "from": 62.31,
+   "to": 62.39,
+   "speaker": 1,
+   "confidence": 0.31,
+   "final": false
+  },
+  {
+   "from": 62.67,
+   "to": 62.84,
+   "speaker": 1,
+   "confidence": 0.31,
+   "final": false
+  },
+  {
+   "from": 69.16,
+   "to": 69.28,
+   "speaker": 0,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 69.28,
+   "to": 69.39,
+   "speaker": 0,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 69.78,
+   "to": 70.05,
+   "speaker": 0,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 72.65,
+   "to": 72.88,
+   "speaker": 0,
+   "confidence": 0.51,
+   "final": false
+  },
+  {
+   "from": 72.88,
+   "to": 73.26,
+   "speaker": 0,
+   "confidence": 0.51,
+   "final": false
+  },
+  {
+   "from": 73.59,
+   "to": 73.86,
+   "speaker": 0,
+   "confidence": 0.52,
+   "final": false
+  },
+  {
+   "from": 76.11,
+   "to": 76.24,
+   "speaker": 1,
+   "confidence": 0.25,
+   "final": false
+  },
+  {
+   "from": 76.24,
+   "to": 76.33,
+   "speaker": 1,
+   "confidence": 0.25,
+   "final": false
+  },
+  {
+   "from": 76.69,
+   "to": 76.89,
+   "speaker": 1,
+   "confidence": 0.25,
+   "final": false
+  },
+  {
+   "from": 79.16,
+   "to": 79.26,
+   "speaker": 1,
+   "confidence": 0.35,
+   "final": false
+  },
+  {
+   "from": 79.26,
+   "to": 79.34,
+   "speaker": 1,
+   "confidence": 0.35,
+   "final": false
+  },
+  {
+   "from": 79.6,
+   "to": 79.75,
+   "speaker": 1,
+   "confidence": 0.35,
+   "final": false
+  },
+  {
+   "from": 84.4,
+   "to": 84.51,
+   "speaker": 1,
+   "confidence": 0.38,
+   "final": false
+  },
+  {
+   "from": 84.51,
+   "to": 84.59,
+   "speaker": 1,
+   "confidence": 0.38,
+   "final": false
+  },
+  {
+   "from": 84.88,
+   "to": 85.02,
+   "speaker": 1,
+   "confidence": 0.38,
+   "final": false
+  },
+  {
+   "from": 87.14,
+   "to": 87.23,
+   "speaker": 1,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 87.5,
+   "to": 87.65,
+   "speaker": 1,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 89.58,
+   "to": 89.68,
+   "speaker": 1,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 89.68,
+   "to": 89.75,
+   "speaker": 1,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 90.04,
+   "to": 90.2,
+   "speaker": 1,
+   "confidence": 0.45,
+   "final": false
+  },
+  {
+   "from": 92.17,
+   "to": 92.26,
+   "speaker": 0,
+   "confidence": 0.34,
+   "final": false
+  },
+  {
+   "from": 92.26,
+   "to": 92.34,
+   "speaker": 0,
+   "confidence": 0.34,
+   "final": false
+  },
+  {
+   "from": 96.18,
+   "to": 96.27,
+   "speaker": 1,
+   "confidence": 0.44,
+   "final": false
+  },
+  {
+   "from": 96.45,
+   "to": 96.57,
+   "speaker": 1,
+   "confidence": 0.44,
+   "final": false
+  },
+  {
+   "from": 99.91,
+   "to": 99.98,
+   "speaker": 1,
+   "confidence": 0.51,
+   "final": false
+  },
+  {
+   "from": 99.98,
+   "to": 100.05,
+   "speaker": 1,
+   "confidence": 0.51,
+   "final": false
+  },
+  {
+   "from": 100.24,
+   "to": 100.37,
+   "speaker": 1,
+   "confidence": 0.51,
+   "final": false
+  },
+  {
+   "from": 101.82,
+   "to": 101.9,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 101.9,
+   "to": 101.98,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 102.14,
+   "to": 102.26,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 104.09,
+   "to": 104.19,
+   "speaker": 1,
+   "confidence": 0.44,
+   "final": false
+  },
+  {
+   "from": 104.19,
+   "to": 104.27,
+   "speaker": 1,
+   "confidence": 0.44,
+   "final": false
+  },
+  {
+   "from": 104.5,
+   "to": 104.64,
+   "speaker": 1,
+   "confidence": 0.44,
+   "final": false
+  },
+  {
+   "from": 109.01,
+   "to": 109.11,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 109.11,
+   "to": 109.2,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 109.44,
+   "to": 109.6,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 111.48,
+   "to": 111.57,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 111.57,
+   "to": 111.66,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 111.9,
+   "to": 112.07,
+   "speaker": 1,
+   "confidence": 0.48,
+   "final": false
+  },
+  {
+   "from": 113.98,
+   "to": 114.08,
+   "speaker": 1,
+   "confidence": 0.43,
+   "final": false
+  },
+  {
+   "from": 114.08,
+   "to": 114.17,
+   "speaker": 1,
+   "confidence": 0.43,
+   "final": false
+  },
+  {
+   "from": 114.45,
+   "to": 114.6,
+   "speaker": 1,
+   "confidence": 0.43,
+   "final": false
+  },
+  {
+   "from": 116.49,
+   "to": 116.59,
+   "speaker": 1,
+   "confidence": 0.52,
+   "final": false
+  },
+  {
+   "from": 116.59,
+   "to": 116.68,
+   "speaker": 1,
+   "confidence": 0.52,
+   "final": false
+  },
+  {
+   "from": 116.93,
+   "to": 117.08,
+   "speaker": 1,
+   "confidence": 0.52,
+   "final": false
+  },
+  {
+   "from": 119.2,
+   "to": 119.3,
+   "speaker": 0,
+   "confidence": 0.38,
+   "final": false
+  },
+  {
+   "from": 119.3,
+   "to": 119.39,
+   "speaker": 0,
+   "confidence": 0.38,
+   "final": false
+  },
+  {
+   "from": 119.73,
+   "to": 119.9,
+   "speaker": 0,
+   "confidence": 0.38,
+   "final": false
+  },
+  {
+   "from": 122.01,
+   "to": 122.11,
+   "speaker": 1,
+   "confidence": 0.39,
+   "final": false
+  },
+  {
+   "from": 122.11,
+   "to": 122.21,
+   "speaker": 1,
+   "confidence": 0.39,
+   "final": false
+  },
+  {
+   "from": 122.52,
+   "to": 122.67,
+   "speaker": 1,
+   "confidence": 0.39,
+   "final": false
+  },
+  {
+   "from": 124.76,
+   "to": 124.86,
+   "speaker": 0,
+   "confidence": 0.43,
+   "final": false
+  },
+  {
+   "from": 124.86,
+   "to": 124.95,
+   "speaker": 0,
+   "confidence": 0.43,
+   "final": false
+  },
+  {
+   "from": 125.24,
+   "to": 125.41,
+   "speaker": 0,
+   "confidence": 0.43,
+   "final": false
+  },
+  {
+   "from": 127.43,
+   "to": 127.55,
+   "speaker": 1,
+   "confidence": 0.56,
+   "final": false
+  },
+  {
+   "from": 127.55,
+   "to": 127.66,
+   "speaker": 1,
+   "confidence": 0.56,
+   "final": false
+  },
+  {
+   "from": 127.94,
+   "to": 128.11,
+   "speaker": 1,
+   "confidence": 0.56,
+   "final": false
+  },
+  {
+   "from": 130.2,
+   "to": 130.3,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 130.3,
+   "to": 130.39,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 130.68,
+   "to": 130.87,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 132.74,
+   "to": 132.84,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 132.84,
+   "to": 132.95,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 133.24,
+   "to": 133.38,
+   "speaker": 1,
+   "confidence": 0.47,
+   "final": false
+  },
+  {
+   "from": 135.15,
+   "to": 135.27,
+   "speaker": 1,
+   "confidence": 0.41,
+   "final": false
+  },
+  {
+   "from": 135.27,
+   "to": 135.36,
+   "speaker": 1,
+   "confidence": 0.41,
+   "final": false
+  },
+  {
+   "from": 135.56,
+   "to": 135.71,
+   "speaker": 1,
+   "confidence": 0.41,
+   "final": false
+  },
+  {
+   "from": 137.45,
+   "to": 137.55,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 137.55,
+   "to": 137.64,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 137.86,
+   "to": 138.01,
+   "speaker": 1,
+   "confidence": 0.5,
+   "final": false
+  },
+  {
+   "from": 139.77,
+   "to": 139.87,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
+  {
+   "from": 139.87,
+   "to": 139.96,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
+  {
+   "from": 140.17,
+   "to": 140.32,
+   "speaker": 1,
+   "confidence": 0.54,
+   "final": false
+  },
